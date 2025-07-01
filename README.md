@@ -35,7 +35,7 @@ The **Pomodoro Timer** is a time management tool built with Python and Tkinter b
 
 ## 📷 Preview
 
-```markdown
+
 ![Pomodoro Timer Screenshot](pomodoro.png)
 
 ---
